@@ -6,5 +6,5 @@
 </a>
 
 <a href="https://wa.me/1234567890?text=Hola,%20necesito%20más%20información">
-  <img src="https://www.ejemplo.com/imagen.jpg" alt="Descripción de la imagen">
+  <img src="inicia a crear tu pagina.gif" alt="Descripción de la imagen">
 </a>
