@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://wa.me/+50578939629?text=Hola,%20necesito%20más%20información">
-  <img src="inicia a crear tu pagina.gif" alt="Descripción de la imagen">
+  <img src="whassa.gif" alt="Descripción de la imagen">
 </a>
