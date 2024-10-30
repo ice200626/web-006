@@ -1,5 +1,5 @@
 
-<body background="gif 04.gif">
+<body background="fondo n1.jpg">
 <a href="https://ice200626.github.io/web-005/#" target="_blank">
   <button>atras</button>
 </a>
